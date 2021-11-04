@@ -1,0 +1,26 @@
+{
+  "name": "nodedemoapp",
+  "version": "1.0.0",
+  "description": "simple app to practice node/express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jl232367/nodeTOPDemo.git"
+  },
+  "author": "Jacob Luallen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jl232367/nodeTOPDemo/issues"
+  },
+  "homepage": "https://github.com/jl232367/nodeTOPDemo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.1.0"
+  }
+}
